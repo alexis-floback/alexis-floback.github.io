@@ -30,7 +30,7 @@ Education
 Postdoctoral Training
 ======
 * Post-Doctoral Scholar, University of Hawai'i at Mānoa (2025-present)
-  *Advisor: Dr. Nicholas Hawco
+  * Advisor: Dr. Nicholas Hawco
 
 Teaching Experience
 ======
@@ -45,7 +45,11 @@ Teaching Experience
   * Laboratory/Teaching Assistant, Nova Southeastern University (2015-2018)
     * _Organic chemistry, Biochemistry, Analytical Chemistry, Physics I, Physics II_
 
-
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Skills
 ======
@@ -56,11 +60,6 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
