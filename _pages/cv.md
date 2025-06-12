@@ -21,7 +21,7 @@ Department of Oceanography, University of Hawai'i at Mānoa
 Education
 ======
 Ph.D in Biology, University of Southern California, 2025\
-&nbsp;&nbsp;&nbsp;&nbsp;_Going with the flow: constraining the lateral advection of redox-active metals from continental margins under differing oxygen regimes_\
+_Going with the flow: constraining the lateral advection of redox-active metals from continental margins under differing oxygen regimes_\
 &nbsp;&nbsp;&nbsp;&nbsp;Advisor: Dr. James Moffett
 
 B.S. in Marine Biology, Biology, Nova Southeastern University, 2014\
@@ -41,8 +41,7 @@ _Organismal Biology and Evolution_ | Fall 2019, 2020\
 
 _Methods in Marine Biology and Biological Oceanography_ | Spring 2022, 2023, 2024 \
 &nbsp;&nbsp;&nbsp;&nbsp;Rating in Instructional Practices: 4/4\
-&nbsp;&nbsp;&nbsp;&nbsp;4-week intensive Maymester course held on Catalina Island at the Wrigley Marine Science\
-&nbsp;&nbsp;&nbsp;&nbsp;Center\
+&nbsp;&nbsp;&nbsp;&nbsp;4-week intensive course held on Catalina Island at the Wrigley Marine Science Center\
 &nbsp;&nbsp;&nbsp;&nbsp;Duties involved designing laboratory experiments and field expeditions (land and sea-based)
 
 Laboratory/Teaching Assistant, Nova Southeastern University (2015-2018)\
