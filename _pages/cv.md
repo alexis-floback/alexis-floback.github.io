@@ -24,7 +24,7 @@ Ph.D in Biology, University of Southern California, 2025\
 _Going with the flow: constraining the lateral advection of redox-active metals from continental margins under differing oxygen regimes_\
 &nbsp;&nbsp;&nbsp;&nbsp;Advisor: Dr. James Moffett
 
-B.S. in Marine Biology, Biology, Nova Southeastern University, 2014\
+B.S. in Marine Biology, Biology, Nova Southeastern University, 2018\
 &nbsp;&nbsp;&nbsp;&nbsp;Minors in Chemistry & Marine Ecology
 
 Postdoctoral Training
