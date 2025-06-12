@@ -55,6 +55,8 @@ Publications
 
 **Floback, AE**, Pham, A, Damien, P, Weiske, J*, Thomas, K, Bianchi, D, Moffett, JW. (_In prep_). Iron supply from the Oregon margin to the ocean dominated by hypoxia-dependent particles. _Target: Nature Geosciences_
 
+Kast DJ, **Floback AE**, Gaffney J, Kong PK, Moffett JW. (_In Review_). Full Steam Ahead: Ironing Up Science at Norwood Elementary. _Current The Journal of Marine Education_
+
 Evans, N., **Floback, AE**, Gaffney, J, Chace, PJ, Luna, Z, Knoery, JA, Reimers, CE, Moffett, JW. (2023) [The role of seasonal hypoxia and benthic boundary layer exchange on margin-derived iron cycling](https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.1002/lno.12476). _Limnology and Oceanography_
 
 **Floback, AE**, & Moffett, JW. (2021) [Rare earth element distributions in the Arabian Sea reveal the influence of redox processes within the oxygen deficient zone](https://www.sciencedirect.com/science/article/abs/pii/S0009254121001583). _Chemical Geology_
@@ -146,4 +148,17 @@ Department Service
 _University of Southern California_
 
 DEI Steering committee (2022-2024), President for Marine and Environmental Biology Student Government Association (2022-2024), Marine and Environmental Biology Open House Planning Committee (2021, 2022), Mentorship Co-Chair (2021-2022), Field Safety Committee (2021-2022), PhD Liaison for Women in Science and Engineering (2020-2022), Secretary for Marine and Environmental Biology Student Government Association (2020-2022), USC MEB Social Media and Website Committee (2020-2024), New Student Orientation planning committee (2020, 2021, 2022)
+
+Media
+======
+_GP17-ANT related by journalist Sofia Moutinho_
+
+EOS Article [Confined at Sea at the End of the World](https://eos.org/features/confined-at-sea-at-the-end-of-the-world) (2024)\
+Scientific American 4 part podcast series "On Thin Ice" (2024)\
+&nbsp;&nbsp;&nbsp;&nbsp;Part 1: [Supercharged Phytoplankton](https://www.scientificamerican.com/podcast/episode/could-iron-from-melting-glaciers-affect-global-climate/)\
+&nbsp;&nbsp;&nbsp;&nbsp;Part 2: [Penguins in ParadICE](https://www.scientificamerican.com/podcast/episode/researchers-sample-antarctic-sea-ice-amid-rapid-melting/)\
+&nbsp;&nbsp;&nbsp;&nbsp;Part 3: [Life Onboard an Antarctic Icebreaker](https://www.scientificamerican.com/podcast/episode/how-researchers-live-and-work-onboard-an-icebreaker-in-a-west-antarctic-sea/)\
+&nbsp;&nbsp;&nbsp;&nbsp;Part 4: [Contemplating Our Climate Future in Antarctica](https://www.scientificamerican.com/podcast/episode/how-antarctic-scientists-think-about-the-future-of-our-planet/)
+
+
 
