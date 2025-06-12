@@ -1,49 +1,38 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Alexis Floback, Ph.D. in oceanography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a field-going trace metal biogeochemist and am currently a postdoctoral scholar at the University of Hawai'a at Mānoa with [Dr. Nick Hawco](https://www.hawcolab.org/) working on the Schmidt Ocean Institute-funded [SUBSEA](https://flbs.umt.edu/apps/subsea/) project. I received my PhD in 2025 from University of Southern California, advised by [Dr. James Moffett](https://dornsife.usc.edu/profile/james-moffett/). 
 
-A data-driven personal website
+TL;DR my research
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Most of my work focuses on the distributions and speciation of iron, a limiting micronutrient in much of the world's oceans. Just like we as humans need iron for hemoglobin in our blood to bind oxygen (and thus allow us to breathe), everything in the ocean needs iron. However, iron is mainly insoluble (not biologically available) in the presence of oxygen-- similar to how a nail exposed to water becomes rusty quickly. I have become really interested in understanding [different sources](https://www.jstor.org/stable/27309820?seq=6) of iron to the world's oceans. My Ph.D. work focused on benthic sources of iron while my post-doc work will mainly focus on atmospheric. I like to think about the ocean as a puzzle (it helps that I love puzzles...). The more components from the four major sub-disciplines of oceanography (biological, chemical, geological, and physical), that we have, the better we can assemble the "puzzle" of oceanography. As a trace metal biogeochemist, I try to contextualize the geochemistry of the ocean in terms of how physical ocean dynamics and microbes are influencing distributions and speciation. Using the distributions of other elements (both biologically-active and semi-conservative) can further help us constrain influences on more biologically-relevant metals. Science doesn't happen solo; I have been fortunate to have many amazing collaborators along the way.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+My current project
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+I am currently working to understand differences in the cycling of trace metals within different layers of the euphotic zone through high-resolution sampling for water column (dissolved and particulate) and sediment trap (sinking particulate) samples. The lower portion of the euphotic zone is particularly understudied and underrepresented in global ocean models. Currently, our fieldwork is focusing on understanding the dynamics at [Hawaiian Ocean Timeseries Station ALOHA](aloha.manoa.hawaii.edu). In the future, we will be sailing aboard the _R/V Falkor Too_ to the South Atlantic.
 
-Site-wide configuration
+Ph.D. Work
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+My dissertation, entitled _Going with the flow: constraining the lateral advection of redox-active metals from continental margins under differing oxygen regimes_, focused on inputs and horizontal transport of trace metals under differing oxygen concentrations. Globally, areas of low oxygen are anticipated to increase in severity and magnitude due to climate change. Historically, inputs from continental margins have been underlooked in comparison to atmospheric ones. In sum, I focused on 3 distinctive regions: the Arabian Sea (home of one of 3 global oxygen deficient zones where oxygen concentrations reach 0), the Oregon coast (a seasonally hypoxic region), and the Amundsen, Sea Antarctica (well-oxygenated). This included two cruises off of the coast of Oregon in 2021 and one (73!) day cruise to the Amundsen Sea from 2023-2024 as a part of the [GEOTRACES GP-17 ANT expedition](https://usgeotraces.ldeo.columbia.edu/content/gp17-ant). **Most importantly, none of this work would have been possible without funding from the National Science Foundation.**
 
-Create content & metadata
+_The Arabian Sea_\
+This work was done on archived samples and published in [Chemical Geology](https://www.sciencedirect.com/science/article/abs/pii/S0009254121001583). I combined distributions of semi-conservative rare earth elements, manganese, and iron with an understanding of the physical water dynamics to understand different inputs into the system: benthic, aeolian, and hydrothermal.
+
+_The Oregon coast_\
+This work is currently in preparation for publication and has benefitted greatly from collaborating with modellers in the [Bianchi lab](https://atmos.ucla.edu/author/dbianchi/). As part of the Iron Transport Shuttle (FeTSh), we completed two cruises to contrast between [Spring](https://youtu.be/FwQChAHqwoA?si=BqNGJFx4EkPmr2q9) and the hypoxic [Summer](https://youtu.be/7AXQc0obmNQ?si=YWAfHpH2vQ5mxIp6) seasons. However, 2021 was [the earliest onset of hypoxia in the last 35 years](https://www.fisheries.noaa.gov/feature-story/low-oxygen-waters-washington-oregon-coasts-risk-becoming-large-dead-zones) to the region. The work I completed here revealed complex seasonal dynamics, due to riverine and hypoxia influences, and offshore transport being dominated by particles. 
+
+_The Amundsen Sea, Antarctica_\
+The Amundsen Sea is a polynya, a seasonally ice-free hotspot of primary production in coastal Antarctic waters. This primary production is fueled by continual inputs of iron to the surface ocean, whereas the surrounding Southern Ocean is largely iron limited. During [this cruise](https://youtu.be/qi_LKUfZz4U?si=iCn6nkgn9wKJHQES), I performed shipboard analyses of Fe(II) in water column, sediment porewater, and sea ice samples. Fe(II) is the most bio-available form of iron, but is largely absent in the world's oceans due to quick oxidation to Fe(III). Notably, this sampling consisted of the first application of a chemiluminscent Fe(II) detection method to sediment porewater and sea ice samples. This work is currently in preparation for publication
+
+_Side project(s)_\
+I've always been interested in trying to link microbial biogeography and trace metal distributions. During the Oregon field sampling campaigns, we were able to take opportunistic samples for microbial DNA extractions. I am currently working through the metagenome data to try to incorporate that "biological" part of the oceanography puzzle to my projects.
+
+Human outside of work
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Outside of work, I am a proud cat mom to 3, and enjoy reading, hiking, travelling, and amateur photography (gallery coming soon!). I am passionate about equality in general and within the sciences, and demystifying grad school. 
