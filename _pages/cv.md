@@ -13,7 +13,7 @@ Postdoctoral Researcher
 Department of Oceanography, University of Hawai'i at Mānoa 
 
 **Email:** floback@hawaii.edu |
-**BlueSky**: [@AFloback](https://bsky.app/profile/afloback.bsky.social) |
+**BlueSky**: [@AFloback](https://bsky.app/profile/afloback.bsky.social) \
 **Address:** 1000 Pope Road, Honolulu, HI 96822
 
 **Research Expertise:** contextualizing trace metal biogeochemistry with physical ocean dynamics and microbial interactions
