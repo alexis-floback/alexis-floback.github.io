@@ -13,7 +13,7 @@ Postdoctoral Researcher
 Department of Oceanography, University of Hawai'i at Mānoa 
 
 **Email:** floback@hawaii.edu |
-**BlueSky**: [@AFloback](https://bsky.app/profile/afloback.bsky.social)
+**BlueSky**: [@AFloback](https://bsky.app/profile/afloback.bsky.social) |
 **Address:** 1000 Pope Road, Honolulu, HI 96822
 
 **Research Expertise:** contextualizing trace metal biogeochemistry with physical ocean dynamics and microbial interactions
@@ -87,17 +87,18 @@ Diwaker, P, Perez H, Fernandez M, **Floback AE**, Manzano N, Caplow T. (2018). I
 Field Experiences
 ======
 _Cruises_
+
 HOT357 aboard the _R/V Sikuliaq_ (Station ALOHA) \
 &nbsp;&nbsp;&nbsp;&nbsp;March 2025\
-&nbsp;&nbsp;&nbsp;&nbsp;_Activities:_ deployment and recovery of oceanographic instrumentation, trace metal sample collection for water column and sediment trap
+_Activities:_ deployment and recovery of oceanographic instrumentation, trace metal sample collection for water column and sediment trap
 
 GEOTRACES GP-17 ANT Cruise aboard the _R/V I/B Nathaniel B. Palmer_ (Amundsen Sea, Antarctica)\
 &nbsp;&nbsp;&nbsp;&nbsp;November 2023-January 2024 | 73 days\
-&nbsp;&nbsp;&nbsp;&nbsp;_Activities:_ shipboard analyses of dissolved Fe(II) by chemiluminescence for water column, sediment porewater, and sea ice samples
+_Activities:_ shipboard analyses of dissolved Fe(II) by chemiluminescence for water column, sediment porewater, and sea ice samples
 
 FeTSh: Iron Transport Shuttle aboard the _R/V Oceanus_ (Newport, OR)\
 &nbsp;&nbsp;&nbsp;&nbsp;March-April 2021 & July-August 2021 | 27 days\
-&nbsp;&nbsp;&nbsp;&nbsp;_Activities_: deployment and recovery of oceanographic instrumentation, trace metal water column and porewater sample collection
+_Activities_: deployment and recovery of oceanographic instrumentation, trace metal water column and porewater sample collection
 
 
 
@@ -109,7 +110,7 @@ _Undergraduate_\
 _University of Southern California:_\
 Alana Synder (2024), Jennifer Weiske* (2022-2023), Leslie Donan (2021-2023), Jacqueline Tran (2020-2021)
 
-_Other:_
+_Other:_\
 Courtney White (NSU, 2023), Heidi Hellenbrand (NSU, 2023), Kourtney Burgess(CSUMB, 2020-2022)
 
 Awards and Honors
@@ -141,7 +142,7 @@ Panelist for Summer Online Interactive/Discussion Global Environmental Microbiol
 
 _Workshops Attended_
 
-GEOTRACES Summer School (Bremerhaven, Germany | 2022), GEOTRACES GP-17 ANT Planning Workshop (Norfolk, VA | 2023)
+GEOTRACES Summer School (Bremerhaven, Germany 2022), GEOTRACES GP-17 ANT Planning Workshop (Norfolk, VA  2023)
 
 Department Service
 ======
