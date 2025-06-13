@@ -9,7 +9,7 @@ redirect_from:
 
 **Alexis E. Floback, Ph.D.**
 =====
-Postdoctoral Researcher
+Postdoctoral Researcher\
 Department of Oceanography, University of Hawai'i at Mānoa 
 
 **Email:** floback@hawaii.edu |
@@ -110,11 +110,11 @@ _University of Southern California:_\
 Alana Synder (2024), Jennifer Weiske* (2022-2023), Leslie Donan (2021-2023), Jacqueline Tran (2020-2021)
 
 _Other:_\
-Courtney White (NSU, 2023), Heidi Hellenbrand (NSU, 2023), Kourtney Burgess(CSUMB, 2020-2022)
+Courtney White (NSU, 2023), Heidi Hellenbrand (NSU, 2023), Kourtney Burgess (CSUMB, 2020-2022)
 
 Awards and Honors
 ======
-Katrina J. Edwards Memorial Dissertation Award for outstanding dissertation (2025)\
+Katrina J. Edwards Memorial Dissertation Award (2025)\
 William E. Trusten Award for outstanding contributions in research, service, and teaching (2024)\
 Marine and Environmentasl Biology section Service Award (2023)\
 Outstanding Teachning Assistant Award (2021)\
