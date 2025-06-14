@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "GP-17 ANT"
+excerpt: "Photo featured in NSF 2024 calendar: 1<br/><img src='/images/IMG_0675_nsf.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+A collection of favorites from GP17-ANT cruise to the Amundsen Sea Polynya, Antarctica.
