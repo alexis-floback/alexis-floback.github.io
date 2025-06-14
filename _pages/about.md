@@ -37,4 +37,4 @@ I've always been interested in trying to link microbial biogeography and trace m
 
 Human outside of work
 ------
-Outside of work, I am a proud cat mom to 3, and enjoy reading, hiking, travelling, and amateur photography (gallery coming soon!). I am passionate about equality in general and within the sciences, and demystifying grad school. 
+Outside of work, I am a proud cat mom to 3, and enjoy reading, hiking, travelling, and amateur photography. I am passionate about equality in general and within the sciences, and demystifying grad school. 
