@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a field-going trace metal biogeochemist and am currently a postdoctoral scholar at the University of Hawai'a at Mānoa with [Dr. Nick Hawco](https://www.hawcolab.org/) working on the Schmidt Ocean Institute-funded [SUBSEA](https://flbs.umt.edu/apps/subsea/) project. I received my PhD in 2025 from University of Southern California, advised by [Dr. James Moffett](https://dornsife.usc.edu/profile/james-moffett/). 
+I am a sea-going trace metal biogeochemist and am currently a postdoctoral scholar at the University of Hawai'a at Mānoa with [Dr. Nick Hawco](https://www.hawcolab.org/) working on the Schmidt Ocean Institute-funded [SUBSEA](https://flbs.umt.edu/apps/subsea/) project. I received my PhD in 2025 from University of Southern California, advised by [Dr. James Moffett](https://dornsife.usc.edu/profile/james-moffett/). 
 
 TL;DR my research
 ======
