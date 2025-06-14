@@ -1,7 +1,12 @@
 ---
-title: "GP-17 ANT"
-excerpt: "Photo featured in NSF 2024 calendar: <br/><img src='/images/IMG_0675_nsf.JPG'>"
-collection: portfolio
+layout: single
+title: "Photo Gallery"
+permalink: /gallery/
 ---
 
-A collection of favorites from GP17-ANT cruise to the Amundsen Sea Polynya, Antarctica.
+# Photo Gallery
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/203015003@N06/albums/72177720326866089" title="Gallery">
+  <img src="https://live.staticflickr.com/65535/54587898784_93c0903e8d_h.jpg" width="1600" height="1200" alt="Gallery"/>
+</a>
+<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
