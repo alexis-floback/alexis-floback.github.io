@@ -17,7 +17,7 @@ I like to think about the ocean as a puzzle (it helps that I love puzzles...). T
 
 My current project
 ======
-I am currently working to understand differences in the cycling of trace metals within different layers of the euphotic zone through high-resolution sampling for water column (dissolved and particulate) and sediment trap (sinking particulate) samples. The lower portion of the euphotic zone is particularly understudied and underrepresented in global ocean models. Currently, our fieldwork is focusing on understanding the dynamics at [Hawai'ian Ocean Timeseries Station ALOHA](aloha.manoa.hawaii.edu). In the future, we will be sailing aboard the _R/V Falkor Too_ to the South Atlantic.
+I am currently working to understand differences in the cycling of trace metals within different layers of the euphotic zone through high-resolution sampling for water column (dissolved and particulate) and sediment trap (sinking particulate) samples. The lower portion of the euphotic zone is particularly understudied and underrepresented in global ocean models. Currently, our fieldwork is focusing on understanding the dynamics at [Hawaiian Ocean Timeseries Station ALOHA](aloha.manoa.hawaii.edu). In the future, we will be sailing aboard the _R/V Falkor Too_ to the South Atlantic.
 
 Ph.D. Work
 ------
