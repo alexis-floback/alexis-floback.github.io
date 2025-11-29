@@ -29,22 +29,20 @@ B.S. in Marine Biology, Biology, Nova Southeastern University, 2018\
 
 Postdoctoral Training
 ======
-Post-Doctoral Scholar on [SUBSEA Project](https://subsea-ocean.github.io/)], University of Hawai'i at Mānoa (2025-present)\
+Post-Doctoral Scholar on [SUBSEA Project](https://subsea-ocean.github.io/), University of Hawai'i at Mānoa (2025-present)\
 &nbsp;&nbsp;&nbsp;&nbsp;Advisor: Dr. Nicholas Hawco
 
 Teaching Experience
 ======
-Teaching Assistant, University of Southern California (2019-2024)
-
+**Teaching Assistant, University of Southern California (2019-2024)**
 _Organismal Biology and Evolution_ | Fall 2019, 2020\
 &nbsp;&nbsp;&nbsp;&nbsp;Rating in Instructional Practices: 3.55/4
-
 _Methods in Marine Biology and Biological Oceanography_ | Spring 2022, 2023, 2024 \
 &nbsp;&nbsp;&nbsp;&nbsp;Rating in Instructional Practices: 4/4\
 &nbsp;&nbsp;&nbsp;&nbsp;4-week intensive course held on Catalina Island at the Wrigley Marine Science Center\
 &nbsp;&nbsp;&nbsp;&nbsp;Duties involved designing laboratory experiments and field expeditions (land and sea-based)
 
-Laboratory/Teaching Assistant, Nova Southeastern University (2015-2018)\
+**Laboratory/Teaching Assistant, Nova Southeastern University (2015-2018)**\
 &nbsp;&nbsp;&nbsp;&nbsp;_Organic chemistry, Biochemistry, Analytical Chemistry, Physics I, Physics II_
 
 
@@ -52,7 +50,7 @@ Publications
 ======
 *indicates undergraduate mentee
 
-**Floback, AE**, Pham, A, Damien, P, Weiske, J*, Thomas, K, Bianchi, D, Moffett, JW. (_In prep_). Iron supply from the Oregon margin to the ocean dominated by hypoxia-dependent particles. _Target: Nature Geosciences_
+**Floback, AE**, Pham, A, Damien, P, Weiske, J*, Thomas, K, Bianchi, D, Moffett, JW. (_Submitted_). Iron supply from the Oregon margin to the ocean dominated by hypoxia-dependent particles. _Submitted to: PNAS_
 
 Kast DJ, **Floback AE**, Gaffney J, Kong KP, Moffett JW. (Accepted). Full Steam Ahead: Ironing Up Science at Norwood Elementary. _Current: The Journal of Marine Education_
 
@@ -66,14 +64,15 @@ Presentations
 ======
 _Oral_ (*presenting author)
 
+**Floback AE**, Church M, Barone B, Hawco NJ (2025). High resolution analysis of iron cycling at Station ALOHA. _Iron Air-Sea Interface Workshop_. Asheville, NC
 Moffett JW, **Floback AE***, Evans N, Kondo Y. (2024). Relationship between iron concentrations in the benthic boundary layer and oxygen. _Goldschmidt_. Chicago, IL\
 **Floback AE**, Damien P, Pham A, Bianchi D, Chace P, Reimers C, Moffett JW (2023). Identification of physiochemical conditions that lead to the highest inputs of redox active metals from coastal Oregon shelf sediments and transport to the interior basin. _Gordon Research Seminar in Chemical Oceanography_. Southern New Hampshire University, NH\
 **Floback AE**, Moffett JW. (2023). Transport of microbial assemblages via subsurface eddy activity off the Oregon coast. _Southern California Geobiology Symposium_. UC Santa Barbara, CA\
-**Floback AE**, Evaluating the constraints on the distributions of biologically relevant trace metals off the Oregon coast. (2023). _Daniele Bianchi lab seminar_. UCLA, CA\
 **Floback AE**, Bianchi D, Chace P, Reimers C, Moffett JW. (2022). Trace metal distributions along the Newport Hydrographic Line reveals that a combination of redox chemistry and subsurface transport leads to high spatial and temporal variability. _Ocean Sciences Meeting_. Virtual\
 
 _Poster Presentations_
 
+**Floback AE**, Church M, Barone B, Hawco NJ (2025). High Resolution analysis of trace metal cycling in the lower euphotic zone at station ALOHA. _Gordon Research Conference in Chemical Oceanography_. Southern New Hampshire University, NH
 **Floback AE**, Pham A, Evans N, Bianchi D, Moffett JW (2024). Cross-shelf transport of iron in the Oregon coast is dominated by the westward transport of non-lithogenic and lithogenic particulate iron in shelf bottom waters. _Goldschmidt_. Chicago, IL\
 **Floback AE**, Bright P, Dewey C, Boiteau R, Moffett JW (2024). Using geochemical measurements and model predictions to inform microbial assemblages off the dynamic Oregon coast. _Gordon Research Conference in Marine Microbiology_. Les Diablerets, Switzerland\
 **Floback AE**, Pham A, Evans N, Damien P, Bianchi D, Moffett JW (2024). Hypoxic regions enriched in iron on the Oregon continental shelf are ‘hotspots’ for cross-shelf iron transport. _Ocean Sciences Meeting_. New Orleans, LA\
@@ -83,12 +82,19 @@ _Poster Presentations_
 Diwaker P, Fernandez M, **Floback AE**, Perez H, Manzano N, Caplow T. (2018) Analysis of Carcinogens and Toxins Using LIBS/SIBS. _SciX Meeting_. Atlanta, GA\
 Diwaker, P, Perez H, Fernandez M, **Floback AE**, Manzano N, Caplow T. (2018). Informal STEM Education through a Science Museum Using Optics and Spectroscopy. _SciX Meeting_. Atlanta, GA
 
+_Invited Seminars_
+
+Iron cycling at station ALOHA. Brown Bag Biogeocehmistry seminar, University of Hawai'i at Mānoa (2025)
+Evaluating the constraints on the distributions of biologically relevant trace metals off the Oregon coast. Daniele Bianchi lab seminar, UC Los Angeles (2023)
+
+
 Field Experiences
 ======
 _Cruises_
 
-HOT357 aboard the _R/V Sikuliaq_ (Station ALOHA) \
-&nbsp;&nbsp;&nbsp;&nbsp;March 2025\
+
+HOT357 aboard the _R/V Sikuliaq_, HOT358, HOT359, HOT361 aboard the _R/V Kilo Moana_ (Station ALOHA) \
+&nbsp;&nbsp;&nbsp;&nbsp;March 2025, September 2025, October 2025, November 2025\
 _Activities:_ deployment and recovery of oceanographic instrumentation, trace metal sample collection for water column and sediment trap
 
 GEOTRACES GP-17 ANT Cruise aboard the _R/V I/B Nathaniel B. Palmer_ (Amundsen Sea, Antarctica)\
@@ -110,7 +116,7 @@ _University of Southern California:_\
 Alana Synder (2024), Jennifer Weiske* (2022-2023), Leslie Donan (2021-2023), Jacqueline Tran (2020-2021)
 
 _Other:_\
-Courtney White (NSU, 2023), Heidi Hellenbrand (NSU, 2023), Kourtney Burgess (CSUMB, 2020-2022)
+Reagan Spahr (NSU, 2025), Courtney White (NSU, 2023), Heidi Hellenbrand (NSU, 2023), Kourtney Burgess (CSUMB, 2020-2022)
 
 Awards and Honors
 ======
@@ -123,7 +129,7 @@ Ph.D. Academy Scholarship and Research Fund Award, $500 (2021)
 Research Skills
 ======
 _Analytical Instruments:_\
-ICP-MS (Element2, Agilent 8900 Triple Quadrupole, iCAP Triple Quadrupole), seaFAST, ICP-OES, spectrophotometer, flurometer, flow cytometer, FeLume chemiluminscent detection of Fe(II)
+ICP-MS (Element2, Agilent 8900 Triple Quadrupole, iCAP Triple Quadrupole), seaFAST, ICP-OES, spectrophotometer, fluorometer, flow cytometer, FeLume chemiluminscent detection of Fe(II)
 
 _Biological:_\
 DNA Extractions, purification, and quantification
@@ -137,11 +143,13 @@ _Service_
 
 _Ad-hoc_ reviewer for SeaGrant proposals, _Limnology & Oceanography_\
 Early career liaison for session OB14-D at 2024 Ocean Sciences Meeting\
-Panelist for Summer Online Interactive/Discussion Global Environmental Microbiology "Your Journey to Graduate School" (2021), The Ocean Institute "So you Love the Ocean, Now What?" (2021)
+Panelist for Raider Career Chats (2025), Summer Online Interactive/Discussion Global Environmental Microbiology "Your Journey to Graduate School" (2021), The Ocean Institute "So you Love the Ocean, Now What?" (2021)
 
 _Workshops Attended_
 
-GEOTRACES Summer School (Bremerhaven, Germany 2022), GEOTRACES GP-17 ANT Planning Workshop (Norfolk, VA  2023)
+SUBSEA Ocean Biogeochemical Perspectives and Emerging Topics: Primary Production (Honolulu, HI 2025)
+GEOTRACES GP-17 ANT Planning Workshop (Norfolk, VA  2023)
+GEOTRACES Summer School (Bremerhaven, Germany 2022)
 
 Department Service
 ======
