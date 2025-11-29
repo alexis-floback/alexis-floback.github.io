@@ -34,7 +34,7 @@ Post-Doctoral Scholar on [SUBSEA Project](https://subsea-ocean.github.io/), Univ
 
 Teaching Experience
 ======
-**Teaching Assistant, University of Southern California (2019-2024)**
+**Teaching Assistant, University of Southern California (2019-2024)**\
 _Organismal Biology and Evolution_ | Fall 2019, 2020\
 &nbsp;&nbsp;&nbsp;&nbsp;Rating in Instructional Practices: 3.55/4
 _Methods in Marine Biology and Biological Oceanography_ | Spring 2022, 2023, 2024 \
@@ -84,7 +84,7 @@ Diwaker, P, Perez H, Fernandez M, **Floback AE**, Manzano N, Caplow T. (2018). I
 
 _Invited Seminars_
 
-Iron cycling at station ALOHA. Brown Bag Biogeocehmistry seminar, University of Hawai'i at Mānoa (2025)
+Iron cycling at station ALOHA. Brown Bag Biogeocehmistry seminar, University of Hawai'i at Mānoa (2025)\
 Evaluating the constraints on the distributions of biologically relevant trace metals off the Oregon coast. Daniele Bianchi lab seminar, UC Los Angeles (2023)
 
 
@@ -122,7 +122,7 @@ Awards and Honors
 ======
 Katrina J. Edwards Memorial Dissertation Award (2025)\
 William E. Trusten Award for outstanding contributions in research, service, and teaching (2024)\
-Marine and Environmentasl Biology section Service Award (2023)\
+Marine and Environmental Biology section Service Award (2023)\
 Outstanding Teachning Assistant Award (2021)\
 Ph.D. Academy Scholarship and Research Fund Award, $500 (2021)
 
@@ -147,12 +147,17 @@ Panelist for Raider Career Chats (2025), Summer Online Interactive/Discussion Gl
 
 _Workshops Attended_
 
-SUBSEA Ocean Biogeochemical Perspectives and Emerging Topics: Primary Production (Honolulu, HI 2025)
-GEOTRACES GP-17 ANT Planning Workshop (Norfolk, VA  2023)
+SUBSEA Ocean Biogeochemical Perspectives and Emerging Topics: Primary Production (Honolulu, HI 2025)\
+GEOTRACES GP-17 ANT Planning Workshop (Norfolk, VA  2023)\
 GEOTRACES Summer School (Bremerhaven, Germany 2022)
 
 Department Service
 ======
+
+_University of Hawai'i at Mānoa_
+
+IDEAL committee (2025-present)
+
 _University of Southern California_
 
 DEI Steering committee (2022-2024), President for Marine and Environmental Biology Student Government Association (2022-2024), Marine and Environmental Biology Open House Planning Committee (2021, 2022), Mentorship Co-Chair (2021-2022), Field Safety Committee (2021-2022), PhD Liaison for Women in Science and Engineering (2020-2022), Secretary for Marine and Environmental Biology Student Government Association (2020-2022), USC MEB Social Media and Website Committee (2020-2024), New Student Orientation planning committee (2020, 2021, 2022)
