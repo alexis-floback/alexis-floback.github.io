@@ -52,7 +52,7 @@ Publications
 
 **Floback, AE**, Pham, A, Damien, P, Weiske, J*, Thomas, K, Bianchi, D, Moffett, JW. (_Submitted_). Iron supply from the Oregon margin to the ocean dominated by hypoxia-dependent particles. _Submitted to: PNAS_
 
-Kast DJ, **Floback AE**, Gaffney J, Kong KP, Moffett JW. (Accepted). Full Steam Ahead: Ironing Up Science at Norwood Elementary. _Current: The Journal of Marine Education_
+Kast, D. J., Stellmann, J., **Floback, A.**, Gaffney, J., Pil, K., & Moffett, J. (2025). [Full Steam Ahead: Ironing Up Science at a Title 1 Elementary School in Southern California. Current: The Journal of Marine Education](https://current-journal.com/articles/10.5334/cjme.136), 40(3), pp. 71–80. DOI: https://doi.org/10.5334/cjme.136
 
 Evans, N., **Floback, AE**, Gaffney, J, Chace, PJ, Luna, Z, Knoery, JA, Reimers, CE, Moffett, JW. (2023) [The role of seasonal hypoxia and benthic boundary layer exchange on margin-derived iron cycling](https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.1002/lno.12476). _Limnology and Oceanography_
 
