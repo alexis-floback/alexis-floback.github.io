@@ -50,7 +50,7 @@ Publications
 ======
 *indicates undergraduate mentee
 
-**Floback, AE**, Pham, ALD, Damien, P, Odendahl, CE, Weiske, J*, Thomas, KE, John SG, Bianchi, D, Moffett, JW. (_Submitted_). Iron supply from the Oregon margin to the ocean dominated by hypoxia-dependent particles. _Submitted to: PNAS_
+**Floback, AE**, Pham, ALD, Damien, P, Odendahl, CE, Weiske, J*, Thomas, KE, John, SG, Bianchi, D, Moffett, JW. (_Submitted_). Iron supply from the Oregon margin to the ocean dominated by hypoxia-dependent particles. _Submitted to: PNAS_
 
 Kast, D. J., Stellmann, J., **Floback, A.**, Gaffney, J., Kong, K., & Moffett, J. (2025). [Full Steam Ahead: Ironing Up Science at a Title 1 Elementary School in Southern California. Current: The Journal of Marine Education](https://current-journal.com/articles/10.5334/cjme.136), 40(3), pp. 71–80. DOI: https://doi.org/10.5334/cjme.136
 
