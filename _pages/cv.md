@@ -36,7 +36,7 @@ Teaching Experience
 ======
 **Teaching Assistant, University of Southern California (2019-2024)**\
 _Organismal Biology and Evolution_ | Fall 2019, 2020\
-&nbsp;&nbsp;&nbsp;&nbsp;Rating in Instructional Practices: 3.55/4
+&nbsp;&nbsp;&nbsp;&nbsp;Rating in Instructional Practices: 3.55/4 \
 _Methods in Marine Biology and Biological Oceanography_ | Spring 2022, 2023, 2024 \
 &nbsp;&nbsp;&nbsp;&nbsp;Rating in Instructional Practices: 4/4\
 &nbsp;&nbsp;&nbsp;&nbsp;4-week intensive course held on Catalina Island at the Wrigley Marine Science Center\
