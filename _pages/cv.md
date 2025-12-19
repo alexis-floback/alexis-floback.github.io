@@ -50,9 +50,9 @@ Publications
 ======
 *indicates undergraduate mentee
 
-**Floback, AE**, Pham, A, Damien, P, Weiske, J*, Thomas, K, Bianchi, D, Moffett, JW. (_Submitted_). Iron supply from the Oregon margin to the ocean dominated by hypoxia-dependent particles. _Submitted to: PNAS_
+**Floback, AE**, Pham, ALD, Damien, P, Odendahl, CE, Weiske, J*, Thomas, KE, John SG, Bianchi, D, Moffett, JW. (_Submitted_). Iron supply from the Oregon margin to the ocean dominated by hypoxia-dependent particles. _Submitted to: PNAS_
 
-Kast, D. J., Stellmann, J., **Floback, A.**, Gaffney, J., Pil, K., & Moffett, J. (2025). [Full Steam Ahead: Ironing Up Science at a Title 1 Elementary School in Southern California. Current: The Journal of Marine Education](https://current-journal.com/articles/10.5334/cjme.136), 40(3), pp. 71–80. DOI: https://doi.org/10.5334/cjme.136
+Kast, D. J., Stellmann, J., **Floback, A.**, Gaffney, J., Kong, K., & Moffett, J. (2025). [Full Steam Ahead: Ironing Up Science at a Title 1 Elementary School in Southern California. Current: The Journal of Marine Education](https://current-journal.com/articles/10.5334/cjme.136), 40(3), pp. 71–80. DOI: https://doi.org/10.5334/cjme.136
 
 Evans, N., **Floback, AE**, Gaffney, J, Chace, PJ, Luna, Z, Knoery, JA, Reimers, CE, Moffett, JW. (2023) [The role of seasonal hypoxia and benthic boundary layer exchange on margin-derived iron cycling](https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.1002/lno.12476). _Limnology and Oceanography_
 
@@ -64,7 +64,7 @@ Presentations
 ======
 _Oral_ (*presenting author)
 
-**Floback AE**, Church M, Barone B, Hawco NJ (2025). High resolution analysis of iron cycling at Station ALOHA. _Iron Air-Sea Interface Workshop_. Asheville, NC
+**Floback AE**, Church M, Barone B, Hawco NJ (2025). High resolution analysis of iron cycling at Station ALOHA. _Iron Air-Sea Interface Workshop_. Asheville, NC \
 Moffett JW, **Floback AE***, Evans N, Kondo Y. (2024). Relationship between iron concentrations in the benthic boundary layer and oxygen. _Goldschmidt_. Chicago, IL\
 **Floback AE**, Damien P, Pham A, Bianchi D, Chace P, Reimers C, Moffett JW (2023). Identification of physiochemical conditions that lead to the highest inputs of redox active metals from coastal Oregon shelf sediments and transport to the interior basin. _Gordon Research Seminar in Chemical Oceanography_. Southern New Hampshire University, NH\
 **Floback AE**, Moffett JW. (2023). Transport of microbial assemblages via subsurface eddy activity off the Oregon coast. _Southern California Geobiology Symposium_. UC Santa Barbara, CA\
@@ -92,10 +92,9 @@ Field Experiences
 ======
 _Cruises_
 
-
 HOT357 aboard the _R/V Sikuliaq_, HOT358, HOT359, HOT361 aboard the _R/V Kilo Moana_ (Station ALOHA) \
 &nbsp;&nbsp;&nbsp;&nbsp;March 2025, September 2025, October 2025, November 2025\
-_Activities:_ deployment and recovery of oceanographic instrumentation, trace metal sample collection for water column and sediment trap
+_Activities:_ deployment and recovery of oceanographic instrumentation, trace metal sample collection for water column and sediment traps
 
 GEOTRACES GP-17 ANT Cruise aboard the _R/V I/B Nathaniel B. Palmer_ (Amundsen Sea, Antarctica)\
 &nbsp;&nbsp;&nbsp;&nbsp;November 2023-January 2024 | 73 days\
@@ -164,6 +163,9 @@ DEI Steering committee (2022-2024), President for Marine and Environmental Biolo
 
 Media
 ======
+_SUBSEA_
+Nautilus Article [Modeling the Deep](https://nautil.us/modeling-the-deep-1238087/?_sp=e5fb6184-80ad-484e-9d81-093c8c3c1964.1761168688526)
+
 _GP17-ANT related by journalist Sofia Moutinho_
 
 EOS Article [Confined at Sea at the End of the World](https://eos.org/features/confined-at-sea-at-the-end-of-the-world) (2024)\
