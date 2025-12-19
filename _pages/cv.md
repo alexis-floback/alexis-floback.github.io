@@ -72,7 +72,7 @@ Moffett JW, **Floback AE***, Evans N, Kondo Y. (2024). Relationship between iron
 
 _Poster Presentations_
 
-**Floback AE**, Church M, Barone B, Hawco NJ (2025). High Resolution analysis of trace metal cycling in the lower euphotic zone at station ALOHA. _Gordon Research Conference in Chemical Oceanography_. Southern New Hampshire University, NH
+**Floback AE**, Church M, Barone B, Hawco NJ (2025). High Resolution analysis of trace metal cycling in the lower euphotic zone at station ALOHA. _Gordon Research Conference in Chemical Oceanography_. Southern New Hampshire University, NH\
 **Floback AE**, Pham A, Evans N, Bianchi D, Moffett JW (2024). Cross-shelf transport of iron in the Oregon coast is dominated by the westward transport of non-lithogenic and lithogenic particulate iron in shelf bottom waters. _Goldschmidt_. Chicago, IL\
 **Floback AE**, Bright P, Dewey C, Boiteau R, Moffett JW (2024). Using geochemical measurements and model predictions to inform microbial assemblages off the dynamic Oregon coast. _Gordon Research Conference in Marine Microbiology_. Les Diablerets, Switzerland\
 **Floback AE**, Pham A, Evans N, Damien P, Bianchi D, Moffett JW (2024). Hypoxic regions enriched in iron on the Oregon continental shelf are ‘hotspots’ for cross-shelf iron transport. _Ocean Sciences Meeting_. New Orleans, LA\
