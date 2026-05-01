@@ -49,9 +49,9 @@ _Methods in Marine Biology and Biological Oceanography_ | Spring 2022, 2023, 202
 Publications
 ======
 *indicates undergraduate mentee
-<u>Corresponding Author</u>
+**Corresponding Author
 
-<u>**Floback, AE**</u>, Pham, ALD, Damien, P, Odendahl, CE, Weiske, J*, Thomas, KE, John, SG, Bianchi, D, Moffett, JW. (2026). [Iron supply from the Oregon margin to the ocean dominated by hypoxia-dependent particles](https://www.pnas.org/doi/10.1073/pnas.2532929123). _PNAS_
+**Floback, AE****, Pham, ALD, Damien, P, Odendahl, CE, Weiske, J*, Thomas, KE, John, SG, Bianchi, D, Moffett, JW. (2026). [Iron supply from the Oregon margin to the ocean dominated by hypoxia-dependent particles](https://www.pnas.org/doi/10.1073/pnas.2532929123). _PNAS_
 
 Kast, D. J., Stellmann, J., **Floback, A.**, Gaffney, J., Kong, K., & Moffett, J. (2025). [Full Steam Ahead: Ironing Up Science at a Title 1 Elementary School in Southern California. Current: The Journal of Marine Education](https://current-journal.com/articles/10.5334/cjme.136), 40(3), pp. 71–80. DOI: https://doi.org/10.5334/cjme.136
 
