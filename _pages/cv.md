@@ -49,7 +49,7 @@ _Methods in Marine Biology and Biological Oceanography_ | Spring 2022, 2023, 202
 Publications
 ======
 *indicates undergraduate mentee
-<u> Corresponding Author </u>
+<u>Corresponding Author</u>
 
 <u>**Floback, AE**</u>, Pham, ALD, Damien, P, Odendahl, CE, Weiske, J*, Thomas, KE, John, SG, Bianchi, D, Moffett, JW. (2026). [Iron supply from the Oregon margin to the ocean dominated by hypoxia-dependent particles](https://www.pnas.org/doi/10.1073/pnas.2532929123). _PNAS_
 
