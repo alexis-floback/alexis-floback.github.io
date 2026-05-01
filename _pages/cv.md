@@ -94,6 +94,10 @@ Field Experiences
 ======
 _Cruises_
 
+SUBSEA Part 1 aboard the _R/V Falkor (Too)_ (South Atlantic)\
+&nbsp;&nbsp;&nbsp;&nbsp;March-April 2026 (35 days)\
+_Activities_deployment and recovery of oceanographic instrumentation, trace metal sample collection for water column, McLane Pump, sediment traps, and incubations
+
 HOT357 aboard the _R/V Sikuliaq_, HOT358, HOT359, HOT361 aboard the _R/V Kilo Moana_ (Station ALOHA) \
 &nbsp;&nbsp;&nbsp;&nbsp;March 2025, September 2025, October 2025, November 2025\
 _Activities:_ deployment and recovery of oceanographic instrumentation, trace metal sample collection for water column and sediment traps
