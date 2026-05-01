@@ -48,10 +48,10 @@ _Methods in Marine Biology and Biological Oceanography_ | Spring 2022, 2023, 202
 
 Publications
 ======
-*indicates undergraduate mentee
-**Corresponding Author
+*Correspondng author\
+**Indicates undergraduate mentee
 
-**Floback, AE****, Pham, ALD, Damien, P, Odendahl, CE, Weiske, J*, Thomas, KE, John, SG, Bianchi, D, Moffett, JW. (2026). [Iron supply from the Oregon margin to the ocean dominated by hypoxia-dependent particles](https://www.pnas.org/doi/10.1073/pnas.2532929123). _PNAS_
+**Floback, AE***, Pham, ALD, Damien, P, Odendahl, CE, Weiske, J**, Thomas, KE, John, SG, Bianchi, D, Moffett, JW. (2026). [Iron supply from the Oregon margin to the ocean dominated by hypoxia-dependent particles](https://www.pnas.org/doi/10.1073/pnas.2532929123). _PNAS_
 
 Kast, D. J., Stellmann, J., **Floback, A.**, Gaffney, J., Kong, K., & Moffett, J. (2025). [Full Steam Ahead: Ironing Up Science at a Title 1 Elementary School in Southern California. Current: The Journal of Marine Education](https://current-journal.com/articles/10.5334/cjme.136), 40(3), pp. 71–80. DOI: https://doi.org/10.5334/cjme.136
 
@@ -96,7 +96,7 @@ _Cruises_
 
 SUBSEA Part 1 aboard the _R/V Falkor (Too)_ (South Atlantic)\
 &nbsp;&nbsp;&nbsp;&nbsp;March-April 2026 (35 days)\
-_Activities_deployment and recovery of oceanographic instrumentation, trace metal sample collection for water column, McLane Pump, sediment traps, and incubations
+_Activities:_ deployment and recovery of oceanographic instrumentation, trace metal sample collection for water column, McLane Pump, sediment traps, and incubations
 
 HOT357 aboard the _R/V Sikuliaq_, HOT358, HOT359, HOT361 aboard the _R/V Kilo Moana_ (Station ALOHA) \
 &nbsp;&nbsp;&nbsp;&nbsp;March 2025, September 2025, October 2025, November 2025\
@@ -171,6 +171,12 @@ Media
 ======
 _SUBSEA_
 Nautilus Article [Modeling the Deep](https://nautil.us/modeling-the-deep-1238087/?_sp=e5fb6184-80ad-484e-9d81-093c8c3c1964.1761168688526)
+
+_SUBSEA Part 1 by Bernarda Cornejo Pinto, Schmidt Ocean Institute_
+
+[Press Release](https://www.schmidtsciences.org/worlds-largest-animal-migration-and-ocean-gyres-play-critical-roles-in-global-carbon-cycle/)\
+[Beneath the Surface](https://www.youtube.com/watch?v=EPcPzG4f59Q)\
+[Tiny Particles, Feeding the Deep](https://www.youtube.com/watch?v=LPakzn-8pOk&t=8s)
 
 _GP17-ANT related by journalist Sofia Moutinho_
 
