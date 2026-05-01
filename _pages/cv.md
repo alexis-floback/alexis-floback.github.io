@@ -170,6 +170,7 @@ DEI Steering committee (2022-2024), President for Marine and Environmental Biolo
 Media
 ======
 _SUBSEA_
+
 Nautilus Article [Modeling the Deep](https://nautil.us/modeling-the-deep-1238087/?_sp=e5fb6184-80ad-484e-9d81-093c8c3c1964.1761168688526)
 
 _SUBSEA Part 1 by Bernarda Cornejo Pinto, Schmidt Ocean Institute_
