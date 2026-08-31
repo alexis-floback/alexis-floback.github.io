@@ -20,7 +20,7 @@ Department of Oceanography, University of Hawai'i at Mānoa
 
 Education
 ======
-Ph.D in Biology, University of Southern California, 2025\
+Ph.D. in Biology, University of Southern California, 2025\
 _Going with the flow: constraining the lateral advection of redox-active metals from continental margins under differing oxygen regimes_\
 &nbsp;&nbsp;&nbsp;&nbsp;Advisor: Dr. James Moffett
 
@@ -50,6 +50,8 @@ Publications
 ======
 *Correspondng author\
 **Indicates undergraduate mentee
+
+Pham, A., **Floback, A.**, Evans, N., Till, C., Till, R., Moffett, J., ... & Bianchi, D. (_In Review_). Exploring iron processes in the California Current System through a regional dataset of dissolved iron and organic ligands measurements. _EGUsphere_
 
 **Floback, AE***, Pham, ALD, Damien, P, Odendahl, CE, Weiske, J**, Thomas, KE, John, SG, Bianchi, D, Moffett, JW. (2026). [Iron supply from the Oregon margin to the ocean dominated by hypoxia-dependent particles](https://www.pnas.org/doi/10.1073/pnas.2532929123). _PNAS_
 
@@ -94,12 +96,16 @@ Field Experiences
 ======
 _Cruises_
 
+LOHA-2 GEOTRACES consensus standard _R/V Kilo Moana_ (Station ALOHA)\
+&nbsp;&nbsp;&nbsp;&nbsp;August 2026 (5 days)\
+_Activities:_ deployment and recovery of trace metal rosette for collecting large volumes of water for consensus standards
+
 SUBSEA Part 1 aboard the _R/V Falkor (Too)_ (South Atlantic)\
 &nbsp;&nbsp;&nbsp;&nbsp;March-April 2026 (35 days)\
 _Activities:_ deployment and recovery of oceanographic instrumentation, trace metal sample collection for water column, McLane Pump, sediment traps, and incubations
 
-HOT357 aboard the _R/V Sikuliaq_, HOT358, HOT359, HOT361 aboard the _R/V Kilo Moana_ (Station ALOHA) \
-&nbsp;&nbsp;&nbsp;&nbsp;March 2025, September 2025, October 2025, November 2025\
+HOT357 aboard the _R/V Sikuliaq_, HOT358, HOT359, HOT361, HOT365 aboard the _R/V Kilo Moana_ (Station ALOHA) \
+&nbsp;&nbsp;&nbsp;&nbsp;March 2025, September 2025, October 2025, November 2025, August 2026 (TOTAL: 29 days)\
 _Activities:_ deployment and recovery of oceanographic instrumentation, trace metal sample collection for water column and sediment traps
 
 GEOTRACES GP-17 ANT Cruise aboard the _R/V I/B Nathaniel B. Palmer_ (Amundsen Sea, Antarctica)\
@@ -148,7 +154,7 @@ _Service_
 
 _Ad-hoc_ reviewer for SeaGrant proposals, _Limnology & Oceanography_\
 Early career liaison for session OB14-D at 2024 Ocean Sciences Meeting\
-Panelist for Raider Career Chats (2025), Summer Online Interactive/Discussion Global Environmental Microbiology "Your Journey to Graduate School" (2021), The Ocean Institute "So you Love the Ocean, Now What?" (2021)
+Panelist for TechTrek STEM Camp (2026), Raider Career Chats (2025), Summer Online Interactive/Discussion Global Environmental Microbiology "Your Journey to Graduate School" (2021), The Ocean Institute "So you Love the Ocean, Now What?" (2021)
 
 _Workshops Attended_
 
