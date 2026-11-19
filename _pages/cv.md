@@ -81,7 +81,7 @@ _Poster Presentations_
 **Floback AE**, Pham A, Evans N, Damien P, Bianchi D, Moffett JW (2024). Hypoxic regions enriched in iron on the Oregon continental shelf are ‘hotspots’ for cross-shelf iron transport. _Ocean Sciences Meeting_. New Orleans, LA\
 **Floback AE**, Damien P, Pham A, Bianchi D, Chace P, Reimers C, Moffett JW (2023). Identification of physiochemical conditions that lead to the highest inputs of redox active metals from coastal Oregon shelf sediments and transport to the interior basin. _Gordon Research Conference in Chemical Oceanography_. Southern New Hampshire University, NH\
 **Floback AE**, Thrash JC, Moffett JW. (2021). Trace metal clean culturing of SAR11. _Southern California Geobiology Symposium_. Virtual\
-**Floback AE**, Bolster KM, Bian X, Moffett JW, John S. (2020). The cerium anomaly and manganese cycling processes in oxygen deficient zones. _Ocean Sciences Meeting_. San Diego, CA\
+**Floback AE**, Bolster KM, Bian X, Moffett JW, John S. (2020). The cerium anomaly and manganese cycling processes in oxygen deficient zones. _Ocean Sciences Meeting_. San Diego, CA
 
 _Invited Seminars_
 
