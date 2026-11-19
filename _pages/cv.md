@@ -96,7 +96,7 @@ Field Experiences
 ======
 _Cruises_
 
-LOHA-2 GEOTRACES consensus standard _R/V Kilo Moana_ (Station ALOHA)\
+ALOHA-2 GEOTRACES consensus standard _R/V Kilo Moana_ (Station ALOHA)\
 &nbsp;&nbsp;&nbsp;&nbsp;August 2026 (5 days)\
 _Activities:_ deployment and recovery of trace metal rosette for collecting large volumes of water for consensus standards
 
@@ -104,8 +104,8 @@ SUBSEA Part 1 aboard the _R/V Falkor (Too)_ (South Atlantic)\
 &nbsp;&nbsp;&nbsp;&nbsp;March-April 2026 (35 days)\
 _Activities:_ deployment and recovery of oceanographic instrumentation, trace metal sample collection for water column, McLane Pump, sediment traps, and incubations
 
-HOT357 aboard the _R/V Sikuliaq_, HOT358, HOT359, HOT361, HOT365 aboard the _R/V Kilo Moana_ (Station ALOHA) \
-&nbsp;&nbsp;&nbsp;&nbsp;March 2025, September 2025, October 2025, November 2025, August 2026 (TOTAL: 29 days)\
+HOT357 aboard the _R/V Sikuliaq_, HOT358, HOT359, HOT361, HOT365, HOT368 aboard the _R/V Kilo Moana_ (Station ALOHA) \
+&nbsp;&nbsp;&nbsp;&nbsp;March 2025, September 2025, October 2025, November 2025, August 2026, November 2026 (TOTAL: 34 days)\
 _Activities:_ deployment and recovery of oceanographic instrumentation, trace metal sample collection for water column and sediment traps
 
 GEOTRACES GP-17 ANT Cruise aboard the _R/V I/B Nathaniel B. Palmer_ (Amundsen Sea, Antarctica)\
