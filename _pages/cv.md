@@ -82,8 +82,6 @@ _Poster Presentations_
 **Floback AE**, Damien P, Pham A, Bianchi D, Chace P, Reimers C, Moffett JW (2023). Identification of physiochemical conditions that lead to the highest inputs of redox active metals from coastal Oregon shelf sediments and transport to the interior basin. _Gordon Research Conference in Chemical Oceanography_. Southern New Hampshire University, NH\
 **Floback AE**, Thrash JC, Moffett JW. (2021). Trace metal clean culturing of SAR11. _Southern California Geobiology Symposium_. Virtual\
 **Floback AE**, Bolster KM, Bian X, Moffett JW, John S. (2020). The cerium anomaly and manganese cycling processes in oxygen deficient zones. _Ocean Sciences Meeting_. San Diego, CA\
-Diwaker P, Fernandez M, **Floback AE**, Perez H, Manzano N, Caplow T. (2018) Analysis of Carcinogens and Toxins Using LIBS/SIBS. _SciX Meeting_. Atlanta, GA\
-Diwaker, P, Perez H, Fernandez M, **Floback AE**, Manzano N, Caplow T. (2018). Informal STEM Education through a Science Museum Using Optics and Spectroscopy. _SciX Meeting_. Atlanta, GA
 
 _Invited Seminars_
 
