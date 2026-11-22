@@ -51,7 +51,7 @@ _Methods in Marine Biology and Biological Oceanography_ | Spring 2022, 2023, 202
 
 Publications
 ======
-*Correspondng author\
+*Corresponding author\
 **Indicates undergraduate mentee
 
 Pham, A., **Floback, A.**, Evans, N., Till, C., Till, R., Moffett, J., ... & Bianchi, D. (_In Review_). Exploring iron processes in the California Current System through a regional dataset of dissolved iron and organic ligands measurements. _EGUsphere_
