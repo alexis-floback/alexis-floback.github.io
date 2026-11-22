@@ -68,13 +68,19 @@ Evans, N., **Floback, AE**, Gaffney, J, Chace, PJ, Luna, Z, Knoery, JA, Reimers,
   
 Presentations
 ======
+_Invited Seminars_
+
+Across boundaries: factors influencing iron cycling from the coast to open gyre. Oceanography seminar, University of Hawai'i at Mānoa (2026)\
+Iron cycling at station ALOHA. Brown Bag Biogeocehmistry seminar, University of Hawai'i at Mānoa (2025)\
+Evaluating the constraints on the distributions of biologically relevant trace metals off the Oregon coast. Daniele Bianchi lab seminar, UC Los Angeles (2023)
+
 _Oral_ (*presenting author)
 
 **Floback AE**, Church M, Barone B, Hawco NJ (2025). High resolution analysis of iron cycling at Station ALOHA. _Iron Air-Sea Interface Workshop_. Asheville, NC \
 Moffett JW, **Floback AE***, Evans N, Kondo Y. (2024). Relationship between iron concentrations in the benthic boundary layer and oxygen. _Goldschmidt_. Chicago, IL\
 **Floback AE**, Damien P, Pham A, Bianchi D, Chace P, Reimers C, Moffett JW (2023). Identification of physiochemical conditions that lead to the highest inputs of redox active metals from coastal Oregon shelf sediments and transport to the interior basin. _Gordon Research Seminar in Chemical Oceanography_. Southern New Hampshire University, NH\
 **Floback AE**, Moffett JW. (2023). Transport of microbial assemblages via subsurface eddy activity off the Oregon coast. _Southern California Geobiology Symposium_. UC Santa Barbara, CA\
-**Floback AE**, Bianchi D, Chace P, Reimers C, Moffett JW. (2022). Trace metal distributions along the Newport Hydrographic Line reveals that a combination of redox chemistry and subsurface transport leads to high spatial and temporal variability. _Ocean Sciences Meeting_. Virtual\
+**Floback AE**, Bianchi D, Chace P, Reimers C, Moffett JW. (2022). Trace metal distributions along the Newport Hydrographic Line reveals that a combination of redox chemistry and subsurface transport leads to high spatial and temporal variability. _Ocean Sciences Meeting_. Virtual
 
 _Poster Presentations_
 
@@ -85,13 +91,6 @@ _Poster Presentations_
 **Floback AE**, Damien P, Pham A, Bianchi D, Chace P, Reimers C, Moffett JW (2023). Identification of physiochemical conditions that lead to the highest inputs of redox active metals from coastal Oregon shelf sediments and transport to the interior basin. _Gordon Research Conference in Chemical Oceanography_. Southern New Hampshire University, NH\
 **Floback AE**, Thrash JC, Moffett JW. (2021). Trace metal clean culturing of SAR11. _Southern California Geobiology Symposium_. Virtual\
 **Floback AE**, Bolster KM, Bian X, Moffett JW, John S. (2020). The cerium anomaly and manganese cycling processes in oxygen deficient zones. _Ocean Sciences Meeting_. San Diego, CA
-
-_Invited Seminars_
-
-Across boundaries: factors influencing iron cycling from the coast to open gyre. Oceanography seminar, University of Hawai'i at Mānoa (2026)\
-Iron cycling at station ALOHA. Brown Bag Biogeocehmistry seminar, University of Hawai'i at Mānoa (2025)\
-Evaluating the constraints on the distributions of biologically relevant trace metals off the Oregon coast. Daniele Bianchi lab seminar, UC Los Angeles (2023)
-
 
 Field Experiences
 ======
