@@ -34,6 +34,9 @@ Post-Doctoral Scholar on [SUBSEA Project](https://subsea-ocean.github.io/), Univ
 
 Teaching Experience
 ======
+**University of Southern California Center for Excellence in Teaching (2024)**\
+_[Future Faculty Teaching Institute Certificate](https://cet.usc.edu/future-faculty-teaching-institute/)_
+
 **Teaching Assistant, University of Southern California (2019-2024)**\
 _Organismal Biology and Evolution_ | Fall 2019, 2020\
 &nbsp;&nbsp;&nbsp;&nbsp;Rating in Instructional Practices: 3.55/4 \
